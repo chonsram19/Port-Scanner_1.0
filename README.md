@@ -15,5 +15,5 @@ cd .\scr\
 
 ## Error Handling
 
-While running the scripting, Include IPv4 Address of the target machine.
+While running the script, Include IPv4 Address of the target machine.
 For example:- .\port_scanner_1.0.py 10.11.0.1 <IPv4 of the target machine>
