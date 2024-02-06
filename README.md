@@ -6,8 +6,11 @@ Port scanning is a method of determining which ports on a network are open and c
 
 ## Install
 git clone https://github.com/chonsram19/Port-Scanner_1.0
+
 cd .\Port-Scanner_1.0\
+
 cd .\scr\
+
 .\port_scanner_1.0.py 10.11.0.1
 
 ## Error Handling
